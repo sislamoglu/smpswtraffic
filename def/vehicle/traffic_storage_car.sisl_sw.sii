@@ -1,0 +1,6 @@
+SiiNunit
+{
+@include "ai/sisl/sbike_scout.sisl_sw.sii"
+@include "ai/sisl/xp34_lands.sisl_sw.sii"
+
+}
